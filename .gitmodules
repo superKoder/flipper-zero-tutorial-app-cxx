@@ -1,0 +1,3 @@
+[submodule "deps/flipperzero++"]
+	path = deps/flipperzero++
+	url = git@github.com:superKoder/flipperzero_plusplus.git
