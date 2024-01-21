@@ -5,3 +5,8 @@ This is the Object-Oriented translation of [instantiator/flipper-zero-tutorial-a
 It uses **[FlipperZero++](https://github.com/superKoder/flipperzero_plusplus)** (my OO C++ binding around the official SDK). But apart from that, it builds and installs and works the exact same way as the original.
 
 Shout out to the original author.
+
+**IMPORTANT** Make sure to clone with `--recursive`:
+```
+git clone git@github.com:superKoder/flipper-zero-tutorial-app-cxx.git --recursive
+```

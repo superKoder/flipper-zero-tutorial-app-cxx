@@ -1,8 +1,8 @@
 # For details & more options, see documentation/AppManifests.md in firmware repo
 
 App(
-    appid="test_app",  # Must be unique
-    name="App test_app",  # Displayed in menus
+    appid="test_app_cxx",  # Must be unique
+    name="App test_app (C++)",  # Displayed in menus
     apptype=FlipperAppType.EXTERNAL,
     entry_point="test_app_app",
     stack_size=2 * 1024,
